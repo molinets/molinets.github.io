@@ -13,3 +13,14 @@
 .small {
     font-size: small;
 }
+
+.maintitle {
+    background-color: rgb(125, 112, 49);
+    color: black;
+    border: 2px solid rgb(28, 21, 21);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
