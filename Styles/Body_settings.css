@@ -1,0 +1,16 @@
+.flexbody{
+    display: flex;
+}
+
+.leftshoulder{
+    background-color: rgb(159, 144, 68);
+    margin-left: 20px;
+    border: 2px solid rgb(28, 21, 21);
+    padding: 0.5%;
+    color: black;
+    width: 25%;
+}
+
+.centralbody{
+    width: 75%;
+}
